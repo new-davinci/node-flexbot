@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/emergingtechnologyadvisors/node-flexbot",
   "dependencies": {
-    "noble": "^0.3.5"
-
+    "noble": "^0.3.6"
   }
 }
