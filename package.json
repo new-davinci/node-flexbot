@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/voodootikigod/node-flexbot",
   "dependencies": {
-    "noble": "^0.3.5"
+    "noble": "^0.3.6"
   }
 }
