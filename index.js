@@ -4,6 +4,10 @@ var flexbot = new Flexbot();
 
 flexbot.connect(function () {
   console.log('connected');
-  console.log(arguments);
-  process.exit(0);
+  flexbot.init(function() {
+  	console.log('arming...')
+  	flexbot.arm(function(){
+  		console.log('armed');
+  	})
+  })
 });
