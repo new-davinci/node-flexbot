@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/emergingtechnologyadvisors/node-flexbot",
   "dependencies": {
-    "multiwii": "^0.1.0",
-    "noble": "^0.3.6"
+    "multiwii": "git+ssh://git@github.com:EmergingTechnologyAdvisors/node-multiwii.git",
+    "noble": "git+ssh://git@github.com:octoblu/noble.git"
   }
 }
