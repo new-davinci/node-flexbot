@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/emergingtechnologyadvisors/node-flexbot",
   "dependencies": {
+    "multiwii": "^0.1.0",
     "noble": "^0.3.6"
   }
 }
