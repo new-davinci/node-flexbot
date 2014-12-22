@@ -1,5 +1,5 @@
 {
-  "name": "node-flexbot",
+  "name": "flexbot",
   "version": "1.0.0",
   "description": "A node.js library to control the Flexbot quad/hexa-copter device.",
   "main": "index.js",
