@@ -25,6 +25,6 @@
   "homepage": "https://github.com/emergingtechnologyadvisors/node-flexbot",
   "dependencies": {
     "multiwii": "git+ssh://git@github.com:EmergingTechnologyAdvisors/node-multiwii.git",
-    "noble": "git+ssh://git@github.com:octoblu/noble.git"
+    "noble": "https://github.com/sandeepmistry/noble/tarball/master"
   }
 }
